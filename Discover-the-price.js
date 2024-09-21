@@ -13,3 +13,6 @@ For example:
   DiscoverOriginalPrice(75, 25) => 100.00M where 75 is the sale price (discounted price), 
   25 is the sale percentage and 100 is the original price.
 */
+
+
+// Solution
